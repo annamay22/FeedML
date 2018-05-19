@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+aaafootball/__init__.py
+aaafootball/get_data.py
+aaafootball.egg-info/PKG-INFO
+aaafootball.egg-info/SOURCES.txt
+aaafootball.egg-info/dependency_links.txt
+aaafootball.egg-info/requires.txt
+aaafootball.egg-info/top_level.txt
