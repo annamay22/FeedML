@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+FeedML/__init__.py
+FeedML/get_data.py
+FeedML.egg-info/PKG-INFO
+FeedML.egg-info/SOURCES.txt
+FeedML.egg-info/dependency_links.txt
+FeedML.egg-info/requires.txt
+FeedML.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: FeedML
+Version: 0.0.0
+Summary: Input for machine learning algorithms
+Home-page: UNKNOWN
+Author: Kapronczay Mor, May Anna, Toth Benedek
+License: UNKNOWN
+Description: # FeedML project
+        
+        package used to merge and harmonize tables
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Description-Content-Type: text/markdown

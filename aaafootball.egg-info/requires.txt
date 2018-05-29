@@ -1,5 +1,0 @@
-html5lib
-pandas
-matplotlib
-requests
-beautifulsoup4
